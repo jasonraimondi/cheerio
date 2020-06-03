@@ -360,3 +360,7 @@ tr > th:last-child { border-right: 1px solid #ddd; }
 .deprecated {
     margin-bottom: 1em;
 }
+
+.header-deep-links {
+    margin-right: 5px;
+}
